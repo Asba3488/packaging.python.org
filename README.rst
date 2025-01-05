@@ -9,7 +9,8 @@ how to package and install distributions in Python using current tools.
 To follow the development of Python packaging, see the `Python
 Packaging Authority <https://www.pypa.io>`_.
 
-Code of Conduct
+Code of Conductdotnet agrega el paquete AWSSDK.BedrockAgent --versión 3.7.415.4
+
 ---------------
 
 Everyone interacting in the Python Packaging User Guide project's codebases,
