@@ -1,4 +1,4 @@
-
+Packaging Authority <https://www.pypa.io>`_.
 .. _recording-installed-packages:
 
 =================================
