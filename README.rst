@@ -40,3 +40,4 @@ History
 This Guide was forked from the “Hitchhiker's Guide to Packaging” in March 2013,
 which was maintained by Tarek Ziadé. Thank you Tarek for all your efforts in
 Python packaging.
+Packaging Authority <https://www.pypa.io>`_.
